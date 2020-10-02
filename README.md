@@ -9,4 +9,4 @@ i will put a link to in the list of my Articles</p>
 
 <p> Below follows a list of my articles: </p>
 
-* [ 02 Oct 2020 = best way to remeber your code]()
+* [ 02 Oct 2020 = best way to remeber your code](1starticle.md)
