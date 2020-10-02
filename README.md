@@ -8,3 +8,5 @@ i started learnig software development in mid year 2017 and now i want to share 
 i will put a link to in the list of my Articles</p>
 
 <p> Below follows a list of my articles: </p>
+
+* [ 02 Oct 2020 = best way to remeber your code]()
