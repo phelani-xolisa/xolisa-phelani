@@ -9,4 +9,4 @@ i will put a link to in the list of my Articles</p>
 
 <p> Below follows a list of my articles: </p>
 
-* [ 02 Oct 2020>First time learning software developmnet](1starticle.md)
+* [ 02 Oct 2020>A liitle bit about HTML,CSS AND JAVASCRIPT](1starticle.md)
