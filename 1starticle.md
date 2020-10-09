@@ -14,9 +14,11 @@ want it to work, remeber to always put your code inside the opening and closing 
 
 * Cascading Style Sheeets - 
 <p>Css is the language used to style the html document, css describes how the html elements should be displayed. Separation of formatting and content 
- also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on a mobile device.</p>
+ also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via
+ speech-based browser or screen reader), and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on
+ a mobile device.</p>
 
 * Javascript - 
-JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time 
-compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+<p>JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time 
+compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.</p>
 
