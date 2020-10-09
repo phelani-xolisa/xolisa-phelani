@@ -1,8 +1,8 @@
 # A little bit about HTML,CSS AND JAVASCRIPT
 
 <p> In this article i will be sharing what i know about Hyper text markup language, cascading style sheets and javascript, these three web design
-or development language are used by developers all around the world to develop and design websites and are used by people all around the world. 
-I want people to be able to understand how the website they use on the daily basis are developed and the code that is running in the background. </p>
+or development languages are used by developers all around the world to develop and design websites that are used by people all around the world. 
+I want people to be able to understand how the website they use on the daily basis are developed and the code that is running in the background.</p>
 
 * Hyper text markup language -
 ![A picture of the paragraph tag](paragraph.png.jpg)
