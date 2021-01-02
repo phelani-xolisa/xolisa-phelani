@@ -9,3 +9,7 @@
 <p>It is not like they are not trying to get employed but not having experience in the field of what they studied is the reason behind them sitting at home with their qualifications, others have 5 and counting years with the qualification but are unemployed. This affects the youth a lot and it is the reason why the rate of youth that is unemployed in South Africa is always high.</p>
 
 <p>I would love it for CEOs and COOs of the business to ask themselves this question “ Where can a youth person get experience for 5-10 years after finishing varsity or college?”, instead of asking us for 5-10 years of experience it is better to hire us as interns or personal assistance for employees already in the company and that way we will gain experience.</p>
+
+![graduate](graduate.png.jpg)
+
+<p>And the unemployment rate in South Africa will decrease, yes education is the key to success and I totally agree but experience is the key that the youth lack to open the door to success and getting a job. My name is Xolisa Phelani and am one of the million unemployed youth in South Africa because of i do not have work experience.</p>
