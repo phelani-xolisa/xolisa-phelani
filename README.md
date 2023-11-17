@@ -9,7 +9,7 @@ i started learning software development in mid year 2017 and now i want to share
 i will put a link to in the list of my Articles
 </p>
 
-<p> Below follows a list of my articles: </p>
+<p> Below follows a list of my articles 2: </p>
 
 * [ 02 Oct 2020>A liitle bit about HTML,CSS AND JAVASCRIPT](1starticle.md)
 
